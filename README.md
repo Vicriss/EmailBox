@@ -1,2 +1,2 @@
 # EmailBox
-a Email client for curriculum design
+An Email client for curriculum design
